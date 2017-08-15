@@ -1,0 +1,120 @@
+pathname = F:\combined\Testing\Group1_4\
+genuine
+
+pathname = F:\combined\Testing\Group1_5\
+genuine
+
+pathname = F:\combined\Testing\Group2_4\
+genuine
+
+pathname = F:\combined\Testing\Group2_5\
+genuine
+
+pathname = F:\combined\Testing\Group3_4\
+genuine
+
+pathname = F:\combined\Testing\Group3_5\
+genuine
+
+pathname = F:\combined\Testing\Group4_4\
+genuine
+
+pathname = F:\combined\Testing\Group4_5\
+genuine
+
+pathname = F:\combined\Testing\Group5_4\
+genuine
+
+pathname = F:\combined\Testing\Group5_5\
+genuine
+
+pathname = F:\combined\Testing\Group6_4\
+genuine
+
+pathname = F:\combined\Testing\Group6_5\
+genuine
+
+pathname = F:\combined\Testing\Group7_4\
+genuine
+
+pathname = F:\combined\Testing\Group7_5\
+genuine
+
+pathname = F:\combined\Testing\Group8_4\
+genuine
+
+pathname = F:\combined\Testing\Group8_5\
+genuine
+
+pathname = F:\combined\Testing\Group9_4\
+genuine
+
+pathname = F:\combined\Testing\Group9_5\
+genuine
+
+pathname = F:\combined\Testing\Group10_4\
+genuine
+
+pathname = F:\combined\Testing\Group10_5\
+genuine
+
+pathname = F:\combined\Testing\Group11_4\
+genuine
+
+pathname = F:\combined\Testing\Group11_5\
+genuine
+
+pathname = F:\combined\Testing\Group12_4\
+genuine
+
+pathname = F:\combined\Testing\Group12_5\
+imposter
+
+pathname = F:\combined\Testing\Group13_4\
+genuine
+
+pathname = F:\combined\Testing\Group13_5\
+genuine
+
+pathname = F:\combined\Testing\Group14_4\
+genuine
+
+pathname = F:\combined\Testing\Group14_5\
+genuine
+
+pathname = F:\combined\Testing\Group15_4\
+genuine
+
+pathname = F:\combined\Testing\Group15_5\
+imposter
+
+pathname = F:\combined\Testing\Group16_4\
+genuine
+
+pathname = F:\combined\Testing\Group16_5\
+genuine
+
+pathname = F:\combined\Testing\Group17_4\
+genuine
+
+pathname = F:\combined\Testing\Group17_5\
+genuine
+
+pathname = F:\combined\Testing\Group18_4\
+genuine
+
+pathname = F:\combined\Testing\Group18_5\
+genuine
+
+pathname = F:\combined\Testing\Group19_4\
+genuine
+
+pathname = F:\combined\Testing\Group19_5\
+imposter
+
+pathname = F:\combined\Testing\Group20_4\
+genuine
+
+pathname = F:\combined\Testing\Group20_5\
+genuine
+

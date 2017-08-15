@@ -1,0 +1,280 @@
+pathname = F:\combined\Testing\Group1_4\
+p_1 =  0.93793
+p_user =  1
+f_1 =  0.75784
+f_user =  1
+Genuine
+
+pathname = F:\combined\Testing\Group1_5\
+p_1 =  0.93617
+p_user =  1
+f_1 =  0.63593
+f_user =  1
+Genuine
+
+pathname = F:\combined\Testing\Group2_4\
+p_1 =  0.93441
+p_user =  2
+f_1 =  0.70293
+f_user =  2
+Genuine
+
+pathname = F:\combined\Testing\Group2_5\
+p_1 =  0.93850
+p_user =  2
+f_1 =  0.43271
+f_user =  2
+Genuine
+
+pathname = F:\combined\Testing\Group3_4\
+p_1 =  0.93386
+p_user =  2
+f_1 =  0.42815
+f_user =  3
+Genuine
+
+pathname = F:\combined\Testing\Group3_5\
+p_1 =  0.94195
+p_user =  3
+f_1 =  0.48297
+f_user =  3
+Genuine
+
+pathname = F:\combined\Testing\Group4_4\
+p_1 =  0.91451
+p_user =  4
+f_1 =  0.70584
+f_user =  4
+Genuine
+
+pathname = F:\combined\Testing\Group4_5\
+p_1 =  0.93614
+p_user =  4
+f_1 =  0.68740
+f_user =  4
+Genuine
+
+pathname = F:\combined\Testing\Group5_4\
+p_1 =  0.90298
+p_user =  6
+f_1 =  0.63403
+f_user =  5
+Genuine
+
+pathname = F:\combined\Testing\Group5_5\
+p_1 =  0.90783
+p_user =  6
+f_1 =  0.61057
+f_user =  5
+Genuine
+
+pathname = F:\combined\Testing\Group6_4\
+p_1 =  0.94052
+p_user =  6
+f_1 =  0.37846
+f_user =  6
+Genuine
+
+pathname = F:\combined\Testing\Group6_5\
+p_1 =  0.94838
+p_user =  6
+f_1 =  0.58871
+f_user =  6
+Genuine
+
+pathname = F:\combined\Testing\Group7_4\
+p_1 =  0.93441
+p_user =  7
+f_1 =  0.82889
+f_user =  7
+Genuine
+
+pathname = F:\combined\Testing\Group7_5\
+p_1 =  0.93450
+p_user =  7
+f_1 =  0.69955
+f_user =  7
+Genuine
+
+pathname = F:\combined\Testing\Group8_4\
+p_1 =  0.85612
+p_user =  8
+f_1 =  0.61717
+f_user =  8
+Genuine
+
+pathname = F:\combined\Testing\Group8_5\
+p_1 =  0.88143
+p_user =  19
+f_1 =  0.73597
+f_user =  8
+Genuine
+
+pathname = F:\combined\Testing\Group9_4\
+p_1 =  0.95118
+p_user =  9
+f_1 =  0.72675
+f_user =  9
+Genuine
+
+pathname = F:\combined\Testing\Group9_5\
+p_1 =  0.94370
+p_user =  9
+f_1 =  0.72506
+f_user =  9
+Genuine
+
+pathname = F:\combined\Testing\Group10_4\
+p_1 =  0.92678
+p_user =  10
+f_1 =  0.53671
+f_user =  10
+Genuine
+
+pathname = F:\combined\Testing\Group10_5\
+p_1 =  0.93798
+p_user =  10
+f_1 =  0.49128
+f_user =  10
+Genuine
+
+pathname = F:\combined\Testing\Group11_4\
+p_1 =  0.91758
+p_user =  11
+f_1 =  0.70980
+f_user =  11
+Genuine
+
+pathname = F:\combined\Testing\Group11_5\
+p_1 =  0.91531
+p_user =  11
+f_1 =  0.54766
+f_user =  11
+Genuine
+
+pathname = F:\combined\Testing\Group12_4\
+p_1 =  0.88848
+p_user =  2
+f_1 =  0.52224
+f_user =  12
+Genuine
+
+pathname = F:\combined\Testing\Group12_5\
+p_1 =  0.89594
+p_user =  10
+f_1 =  0.63469
+f_user =  12
+Genuine
+
+pathname = F:\combined\Testing\Group13_4\
+p_1 =  0.88600
+p_user =  16
+f_1 =  0.59890
+f_user =  13
+Genuine
+
+pathname = F:\combined\Testing\Group13_5\
+p_1 =  0.86766
+p_user =  16
+f_1 =  0.45793
+f_user =  13
+Genuine
+
+pathname = F:\combined\Testing\Group14_4\
+p_1 =  0.93480
+p_user =  14
+f_1 =  0.74902
+f_user =  14
+Genuine
+
+pathname = F:\combined\Testing\Group14_5\
+p_1 =  0.91993
+p_user =  14
+f_1 =  0.55088
+f_user =  14
+Genuine
+
+pathname = F:\combined\Testing\Group15_4\
+p_1 =  0.85352
+p_user =  15
+f_1 =  0.55574
+f_user =  15
+Genuine
+
+pathname = F:\combined\Testing\Group15_5\
+p_1 =  0.91587
+p_user =  15
+f_1 =  0.31695
+f_user =  7
+Genuine
+
+pathname = F:\combined\Testing\Group16_4\
+p_1 =  0.90060
+p_user =  16
+f_1 =  0.79839
+f_user =  16
+Genuine
+
+pathname = F:\combined\Testing\Group16_5\
+p_1 =  0.89464
+p_user =  19
+f_1 =  0.74384
+f_user =  16
+Genuine
+
+pathname = F:\combined\Testing\Group17_4\
+p_1 =  0.92510
+p_user =  17
+f_1 =  0.70169
+f_user =  17
+Genuine
+
+pathname = F:\combined\Testing\Group17_5\
+p_1 =  0.92388
+p_user =  17
+f_1 =  0.61531
+f_user =  17
+Genuine
+
+pathname = F:\combined\Testing\Group18_4\
+p_1 =  0.92844
+p_user =  18
+f_1 =  0.67931
+f_user =  18
+Genuine
+
+pathname = F:\combined\Testing\Group18_5\
+p_1 =  0.87896
+p_user =  17
+f_1 =  0.65407
+f_user =  18
+Genuine
+
+pathname = F:\combined\Testing\Group19_4\
+p_1 =  0.90460
+p_user =  19
+f_1 =  0.39049
+f_user =  19
+Genuine
+
+pathname = F:\combined\Testing\Group19_5\
+p_1 =  0.93151
+p_user =  19
+f_1 =  0.41254
+f_user =  7
+Genuine
+
+pathname = F:\combined\Testing\Group20_4\
+p_1 =  0.89362
+p_user =  20
+f_1 =  0.63979
+f_user =  20
+Genuine
+
+pathname = F:\combined\Testing\Group20_5\
+p_1 =  0.92499
+p_user =  7
+f_1 =  0.56449
+f_user =  20
+Genuine
+

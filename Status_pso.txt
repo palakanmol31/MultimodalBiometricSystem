@@ -1,0 +1,398 @@
+pathname = F:\combined\Testing\Group1_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group1_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group2_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group2_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group3_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is genuine with fusion rules and optimum values as : 
+
+     RULE       ERROR       CFA      FAR       FRR
+
+    7.000000    0.569870    0.700000    0.210530    0.325000
+    8.000000    0.558420    0.100000    1.000000    0.112500
+   15.000000    0.278290    1.500000    0.043860    0.425000
+
+pathname = F:\combined\Testing\Group3_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group4_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group4_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group5_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is genuine with fusion rules and optimum values as : 
+
+     RULE       ERROR       CFA      FAR       FRR
+
+    7.000000    0.569870    0.700000    0.210530    0.325000
+    8.000000    0.558420    0.100000    1.000000    0.112500
+   15.000000    0.278290    1.500000    0.043860    0.425000
+
+pathname = F:\combined\Testing\Group5_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is genuine with fusion rules and optimum values as : 
+
+     RULE       ERROR       CFA      FAR       FRR
+
+    7.000000    0.569870    0.700000    0.210530    0.325000
+    8.000000    0.558420    0.100000    1.000000    0.112500
+   15.000000    0.278290    1.500000    0.043860    0.425000
+
+pathname = F:\combined\Testing\Group6_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group6_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group7_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group7_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group8_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group8_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is genuine with fusion rules and optimum values as : 
+
+     RULE       ERROR       CFA      FAR       FRR
+
+    7.000000    0.569870    0.700000    0.210530    0.325000
+    8.000000    0.558420    0.100000    1.000000    0.112500
+   15.000000    0.278290    1.500000    0.043860    0.425000
+
+pathname = F:\combined\Testing\Group9_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group9_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group10_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group10_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group11_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group11_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group12_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is genuine with fusion rules and optimum values as : 
+
+     RULE       ERROR       CFA      FAR       FRR
+
+    7.000000    0.569870    0.700000    0.210530    0.325000
+    8.000000    0.558420    0.100000    1.000000    0.112500
+   15.000000    0.278290    1.500000    0.043860    0.425000
+
+pathname = F:\combined\Testing\Group12_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is genuine with fusion rules and optimum values as : 
+
+     RULE       ERROR       CFA      FAR       FRR
+
+    7.000000    0.569870    0.700000    0.210530    0.325000
+    8.000000    0.558420    0.100000    1.000000    0.112500
+   15.000000    0.278290    1.500000    0.043860    0.425000
+
+pathname = F:\combined\Testing\Group13_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is genuine with fusion rules and optimum values as : 
+
+     RULE       ERROR       CFA      FAR       FRR
+
+    7.000000    0.569870    0.700000    0.210530    0.325000
+    8.000000    0.558420    0.100000    1.000000    0.112500
+   15.000000    0.278290    1.500000    0.043860    0.425000
+
+pathname = F:\combined\Testing\Group13_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is genuine with fusion rules and optimum values as : 
+
+     RULE       ERROR       CFA      FAR       FRR
+
+    7.000000    0.569870    0.700000    0.210530    0.325000
+    8.000000    0.558420    0.100000    1.000000    0.112500
+   15.000000    0.278290    1.500000    0.043860    0.425000
+
+pathname = F:\combined\Testing\Group14_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group14_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group15_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group15_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is genuine with fusion rules and optimum values as : 
+
+     RULE       ERROR       CFA      FAR       FRR
+
+    7.000000    0.569870    0.700000    0.210530    0.325000
+   15.000000    0.278290    1.500000    0.043860    0.425000
+   15.000000    0.278290    1.500000    0.043860    0.425000
+
+pathname = F:\combined\Testing\Group16_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group16_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is genuine with fusion rules and optimum values as : 
+
+     RULE       ERROR       CFA      FAR       FRR
+
+    7.000000    0.569870    0.700000    0.210530    0.325000
+    8.000000    0.558420    0.100000    1.000000    0.112500
+   15.000000    0.278290    1.500000    0.043860    0.425000
+
+pathname = F:\combined\Testing\Group17_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group17_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group18_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group18_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is genuine with fusion rules and optimum values as : 
+
+     RULE       ERROR       CFA      FAR       FRR
+
+    7.000000    0.569870    0.700000    0.210530    0.325000
+    8.000000    0.558420    0.100000    1.000000    0.112500
+   15.000000    0.278290    1.500000    0.043860    0.425000
+
+pathname = F:\combined\Testing\Group19_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group19_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is genuine with fusion rules and optimum values as : 
+
+     RULE       ERROR       CFA      FAR       FRR
+
+    7.000000    0.569870    0.700000    0.210530    0.325000
+   15.000000    0.278290    1.500000    0.043860    0.425000
+   15.000000    0.278290    1.500000    0.043860    0.425000
+
+pathname = F:\combined\Testing\Group20_4\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is imposter
+
+pathname = F:\combined\Testing\Group20_5\
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+warning: division by zero
+User is genuine with fusion rules and optimum values as : 
+
+     RULE       ERROR       CFA      FAR       FRR
+
+    7.000000    0.569870    0.700000    0.210530    0.325000
+    8.000000    0.558420    0.100000    1.000000    0.112500
+   15.000000    0.278290    1.500000    0.043860    0.425000
+
