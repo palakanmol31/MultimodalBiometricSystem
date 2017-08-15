@@ -1,5 +1,5 @@
 # MultimodalBiometricSystem
-
+Video demo : https://github.com/palakanmol31/MultimodalBiometricSystem/blob/master/major.mp4
 1. Download octave from internet .
 2. Change the path of images .
 3. Then run the .m files. Firstly run combined.m to
